@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1035696325614",
+    "project_id": "darasani-af794",
+    "storage_bucket": "darasani-af794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035696325614:android:9568f010334f4c7c6544ff",
+        "android_client_info": {
+          "package_name": "com.app.darasani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035696325614-0k6v3e42op5qctmks07v4e64mh5r4boe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.darasani",
+            "certificate_hash": "a93a1faf7fb7f33cfea513857910843a509288bd"
+          }
+        },
+        {
+          "client_id": "1035696325614-vt87ht2kedtq4lhif2nqgfbvqn6pphn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIJ56jIy3Z0Rf9TooW3bGPp-9HIs7hj8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035696325614-vt87ht2kedtq4lhif2nqgfbvqn6pphn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
